@@ -1,7 +1,7 @@
 # CPNT 260 - Web Page Construction Fundamentals
 ## Assignment 2 - Single Card
 Katherine Kapiga
-GH pages link goes here
+https://aves-proxy.github.io/cpnt260-a2/
 
 Seaside photo provided by Fabian Wiktor at https://www.pexels.com/photo/seaside-994605/
 
