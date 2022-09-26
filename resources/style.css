@@ -1,0 +1,50 @@
+h3 {
+  font-size: 40px;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+  color: #3aafa9;
+}
+
+p {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: #feffff;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.5rem;
+  color: #def2f1;
+}
+
+img {
+  aspect-ratio: 1;
+  object-fit: fill;
+  clip-path: polygon(
+    0% 0%,
+    80% 0%,
+    100% 50%,
+    80% 100%,
+    0% 100%,
+    0% 50%
+  );
+}
+
+a.fill-card {
+  display: block;
+  padding: 1rem;
+  max-width: 40ch;
+  background-color: #17252a;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 15px;
+  border-color: #3aafa9;
+  text-decoration: none;
+}
+
+a.fill-card:hover {
+  background-color: #2b7a78;
+}
